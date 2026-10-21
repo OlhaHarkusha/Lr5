@@ -1,0 +1,10 @@
+# Папка зі збіркою CMake
+build/
+out/
+
+# Файли Visual Studio
+.vs/
+*.user
+
+# Службові файли vcpkg (якщо вони з'являться в корені)
+vcpkg_installed/
